@@ -1,0 +1,27 @@
+.immagine {
+    width: 460px;
+    position: absolute;
+    left: 620px;
+    top: 120px;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1;
+    
+}
+
+.Blu {
+    color: blue;
+    font-weight: bold;
+}
+
+p {
+    white-space: pre-line;
+    max-width: 37em; /* Adjust as needed */
+    
+}
+
+
+.descrizione, .Blu, .rib {
+    font-family: Arial;
+}
+
